@@ -1,0 +1,42 @@
+/* .container{
+    max-width: 1400px;
+} */
+/* #0ead66 màu*/
+.navbar-header{
+    background-color: #0ead66!important;
+}
+.navbar{
+    padding: 0px;
+}
+.navbar-logo{
+    padding: 0px;
+}
+
+.form-control{
+    width: 400px;
+    padding: 0.4rem 0.7rem;
+    font-size: 0.9rem;
+}
+.nav-header.navbar-nav.navbar-nav-scroll {
+    margin-right: 15px;
+}
+.nav-link{
+    margin-left: 25px;
+}
+
+.icon-search {
+    color: black;
+    font-size: 20px;
+}
+.icon-user{
+    color: black;
+    font-size: 25px;
+}
+
+.btn-search{
+    border: none;
+}
+.dropdown-menu-align-end{
+    background-color: none;
+    color: none!important;
+}

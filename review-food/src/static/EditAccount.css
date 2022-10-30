@@ -1,0 +1,7 @@
+.nav-pills .navlink-abc.active{
+    background-color: red;
+}
+
+.nav-pills .navlink-abc:hover{
+    background-color: gray;
+}

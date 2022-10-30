@@ -1,0 +1,46 @@
+
+.container-footer.container{
+    padding: 30px 50px 50px 50px;
+}
+hr {
+    width: 250px;
+    margin: unset;
+    padding-bottom: 5px;
+    color: inherit;
+    opacity: .15;
+}
+p{
+    margin: unset;
+}
+
+.p-text{
+    font-weight: 500;
+    font-size: 15px;
+    color: gray;
+}
+
+.p-link{
+    padding: 5px;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.p-link:hover{
+    color: red;
+}
+
+.container-bottom {
+    padding-top: 50px;
+}
+
+.hr-bottom{
+    width: auto;
+    opacity: .04;
+}
+
+.text-footer{
+    text-align: center;
+    font-size: 13px;
+    color: gray;
+}
